@@ -1,0 +1,6 @@
+C:\Users\tmace\Documents\csis2530\classLabs\DemoComplex\DemoComplex\bin\Debug\DemoComplex.exe.config
+C:\Users\tmace\Documents\csis2530\classLabs\DemoComplex\DemoComplex\bin\Debug\DemoComplex.exe
+C:\Users\tmace\Documents\csis2530\classLabs\DemoComplex\DemoComplex\bin\Debug\DemoComplex.pdb
+C:\Users\tmace\Documents\csis2530\classLabs\DemoComplex\DemoComplex\obj\Debug\DemoComplex.csprojResolveAssemblyReference.cache
+C:\Users\tmace\Documents\csis2530\classLabs\DemoComplex\DemoComplex\obj\Debug\DemoComplex.exe
+C:\Users\tmace\Documents\csis2530\classLabs\DemoComplex\DemoComplex\obj\Debug\DemoComplex.pdb
